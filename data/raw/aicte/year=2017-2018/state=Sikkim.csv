@@ -1,0 +1,7 @@
+institute_id,institute_name,address,district,institution_type,women_only,minority,parent_id,method,year,program,level,institutiontype,Women,Minority,state,course
+1-3324451577,CENTRE FOR COMPUTERS AND COMMUNICATION TECHNOLOGY (CCCT),"CHISOPANI,
+PO NANDUGAON,
+SOUTH SIKKIM",SOUTH SIKKIM,Government,N,N,1-451597683,fetchdata,2017-2018,Engineering and Technology,1,1,1,1,Sikkim,1
+1-3324203312,ADVANCED TECHNICAL TRAINING CENTRE,"NH 31A,BARDANG",EAST SIKKIM,Government,N,N,1-474220803,fetchdata,2017-2018,Engineering and Technology,1,1,1,1,Sikkim,1
+1-3324493798,SIKKIM MANIPAL INSTITUTE OF TECHNOLOGY,"MAJITAR, RANGPO, EAST SIKKIM , PIN-737136",EAST SIKKIM,University Managed-Private,N,N,1-6538045,fetchdata,2017-2018,Engineering and Technology,1,1,1,1,Sikkim,1
+1-3324541571,ADVANCED TECHNICAL TRAINING CENTRE,"BARDANG, EAST SIKKIM",EAST SIKKIM,Government,N,N,,fetchdata,2017-2018,Engineering and Technology,1,1,1,1,Sikkim,1

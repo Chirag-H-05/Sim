@@ -1,0 +1,7 @@
+institute_id,institute_name,address,district,institution_type,women_only,minority,parent_id,method,year,program,level,institutiontype,Women,Minority,state,course
+1-3508567302,"GOVERMENT POLYTECHNIC,DAMAN","VARKUND,
+MOTA FALIA,
+NANI DAMAN
+DAMAN",DAMAN,Government,N,N,1-414180401,fetchdata,2018-2019,Engineering and Technology,1,1,1,1,Daman and Diu,1
+1-3508230933,"GOVERNMENT POLYTECHNIC,DIU","TECHNICAL TRAINING INSTITUTE CAMPUS, FORT ROAD ,DIU",DIU,Govt aided,N,N,1-2056611791,fetchdata,2018-2019,Engineering and Technology,1,1,1,1,Daman and Diu,1
+1-3662092341,GOVERNMENT ENGINEERING COLLEGE DAMAN,"VARKUND, MOTA FALIYA, NANI DAMAN",DAMAN,Government,N,N,,fetchdata,2018-2019,Engineering and Technology,1,1,1,1,Daman and Diu,1

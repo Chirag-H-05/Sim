@@ -1,0 +1,5 @@
+institute_id,institute_name,address,district,institution_type,women_only,minority,parent_id,method,year,program,level,institutiontype,Women,Minority,state,course
+1-43663448265,SCHOOL OF ENGINEERING AND TECHNOLOGY,"MIZORAM UNIVERSITY, AIZAWL",AIZAWL,Central University,N,N,1-4493753901,fetchdata,2024-2025,Engineering and Technology,1,1,1,1,Mizoram,1
+1-43657656009,MIZORAM POLYTECHNIC,LUNGLEI,LUNGLEI,Government,N,N,1-1091407351,fetchdata,2024-2025,Engineering and Technology,1,1,1,1,Mizoram,1
+1-43658986745,"NATIONAL INSTITUTE OF ELECTRONICS AND INFORMATION TECHNOLOGY (NIELIT), AIZAWL CENTRE","INDUSTRIAL ESTATE, ZUANGTUI,",AIZAWL,Government,N,N,1-648003051,fetchdata,2024-2025,Engineering and Technology,1,1,1,1,Mizoram,1
+1-43662935331,"WOMEN'S POLYTECHNIC, AIZAWL","DURTLANG,  AIZAWL, MIZORAM",AIZAWL,Government,Y,N,1-1509181971,fetchdata,2024-2025,Engineering and Technology,1,1,1,1,Mizoram,1

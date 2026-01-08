@@ -1,0 +1,5 @@
+institute_id,institute_name,address,district,institution_type,women_only,minority,parent_id,method,year,program,level,institutiontype,Women,Minority,state,course
+1-10967978896,ADVANCED TECHNICAL TRAINING CENTRE,"NH 31A,BARDANG",EAST SIKKIM,Government,N,N,1-474220803,fetchdata,2022-2023,Engineering and Technology,1,1,1,1,Sikkim,1
+1-10973691859,SIKKIM MANIPAL INSTITUTE OF TECHNOLOGY,"MAJITAR, RANGPO, EAST SIKKIM , PIN-737136",EAST SIKKIM,State Private University,N,N,1-6538045,fetchdata,2022-2023,Engineering and Technology,1,1,1,1,Sikkim,1
+1-10970155671,SIKKIM INSTITUTE OF SCIENCE AND TECHNOLOGY,"CHISOPANI, SOUTH SIKKIM",EAST SIKKIM,Government,N,N,1-3717044611,fetchdata,2022-2023,Engineering and Technology,1,1,1,1,Sikkim,1
+1-10967922297,CENTRE FOR COMPUTERS AND COMMUNICATION TECHNOLOGY (CCCT),"CHISOPANI, PO NANDUGAON, SOUTH SIKKIM",SOUTH SIKKIM,Government,N,N,1-451597683,fetchdata,2022-2023,Engineering and Technology,1,1,1,1,Sikkim,1

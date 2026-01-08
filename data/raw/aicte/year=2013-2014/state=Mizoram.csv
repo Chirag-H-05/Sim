@@ -1,0 +1,5 @@
+institute_id,institute_name,address,district,institution_type,women_only,minority,parent_id,method,year,program,level,institutiontype,Women,Minority,state,course
+1-1575266883,MIZORAM POLYTECHNIC,LUNGLEI,LUNGLEI,Government,N,N,1-1091407351,fetchdata,2013-2014,Engineering and Technology,1,1,1,1,Mizoram,1
+1-1509181971,"WOMEN'S POLYTECHNIC, AIZAWL","DURTLANG, 
+AIZAWL, MIZORAM",AIZAWL,Government,Y,N,,fetchdata,2013-2014,Engineering and Technology,1,1,1,1,Mizoram,1
+1-1581811922,"DOEACC SOCIETY, AIZAWL CENTRE","INDUSTRIAL ESTATE, ZUANGTUI,",AIZAWL,Government,N,N,1-648003051,fetchdata,2013-2014,Engineering and Technology,1,1,1,1,Mizoram,1
